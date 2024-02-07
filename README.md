@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hariss-shinwari
 - 👀 I’m interested in IT-Programm
 - 🌱 I’m currently learning C# Pragramm 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me normal
+- 💞️ I’m looking to collaborate on (: (:
+- 📫 How to reach me normal on may E-mail: hshinwari848@gmail.com
 
 <!---
 Hariss-shinwari/Hariss-shinwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
